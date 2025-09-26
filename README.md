@@ -43,16 +43,17 @@ As an example, below is a visualization of the magnetization (from `CHGCAR`), $m
 
 Below is a citation to our manuscript, as a bibTex entry:
 ```
-@misc{mooreRealisticNoncollinearSourceFree2023,
-	title = {Realistic non-collinear ground states of solids with source-free exchange correlation functional},
-	url = {http://arxiv.org/abs/2310.00114},
-	urldate = {2023-10-03},
-	publisher = {arXiv},
-	author = {Moore, Guy C. and Horton, Matthew K. and Kaplan, Aaron D. and Griffin, Sinéad M. and Persson, Kristin A.},
-	month = sep,
-	year = {2023},
-	note = {arXiv:2310.00114 [cond-mat]},
-	keywords = {Condensed Matter - Materials Science},
+@article{mooreNoncollinearGroundStates2025,
+  title = {Noncollinear Ground States of Solids with a Source-Free Exchange Correlation Functional},
+  author = {Moore, Guy C. and Horton, Matthew K. and Kaplan, Aaron D. and Ashour, Omar A. and Griffin, Sin{\'e}ad M. and Persson, Kristin A.},
+  year = {2025},
+  month = mar,
+  journal = {Physical Review B},
+  volume = {111},
+  number = {9},
+  pages = {094417},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.111.094417},
 }
 ```
 
